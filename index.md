@@ -4,7 +4,7 @@ Fortnite AHK (AutoHotKey) Files
 
 ### Ghost Peek
 
-Ghost Peeking is a simple Method to shot over walls and be not hittet.
+Ghost peeking is an easy way to shoot over walls and avoid getting hit.
 [example Video from Tfue](https://www.youtube.com/watch?v=1jZxLmKiS7I&t=90s)
 
 ```markdown
