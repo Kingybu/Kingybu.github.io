@@ -7,22 +7,13 @@ Fortnite AHK (AutoHotKey) Files
 Ghost peeking is an easy way to shoot over walls and avoid getting hit.
 [example Video from Tfue](https://www.youtube.com/watch?v=1jZxLmKiS7I&t=90s)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```Ghost Peek
+x::
+Send {LCtrl}
+Sleep 200
+Send {LButton}
+Send {LCtrl}
+return
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
