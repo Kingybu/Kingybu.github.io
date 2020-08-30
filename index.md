@@ -2,9 +2,10 @@
 
 Fortnite AHK (AutoHotKey) Files
 
-### Markdown
+### Ghost Peek
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ghost Peeking is a simple Method to shot over walls and be not hittet.
+[example Video from Tfue](https://www.youtube.com/watch?v=1jZxLmKiS7I&t=90s)
 
 ```markdown
 Syntax highlighted code block
