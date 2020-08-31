@@ -1,6 +1,6 @@
 ## Welcome to Kingybu`s Github
 
-Fortnite AHK (AutoHotKey) Files
+Just a Website from a 12 Years old Boy...
 
 ### Ghost Peek
 
@@ -9,13 +9,13 @@ Ghost peeking is an easy way to shoot over walls and avoid getting hit.
 
 ```Ghost Peek
 x::                                                                                
-Send {LCtrl}                                                                           
-Sleep 200                                                                                                      
-Send {LButton}                                                                                                                     
-Send {LCtrl}                                                                                   
-return                                                                    
+Send {LCtrl}
+Sleep 200
+Send {LButton}
+Send {LCtrl}
+return
 ```
-Press x to unsneak, shoot and sneek
+![Image Of a derp Cokie](https://lh3.googleusercontent.com/5dv-Ze733yDsLrKgUuLJpLBNZajHUibmb_KWamzlNamE_kDaxm9y9Aa_Cv4yZJSrYDbo4YrbZvEkYcpqdw2vdQ=s400)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
