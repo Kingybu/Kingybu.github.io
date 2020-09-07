@@ -10,11 +10,12 @@ Just a Website from a 12 Years old Boy...
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### My Games
 
 Fortnite: Kingybu     
-Minecraft: MAUPAPI 
-Steam FriendCode: 445922955
+Minecraft: MAUPAPI                   
+Steam FriendCode: 445922955 [my profile](https://s.team/p/cpng-fvmq/WFJDBPKB)
+
 
 
 
