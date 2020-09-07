@@ -6,7 +6,7 @@ Just a Website from a 12 Years old Boy...
 
 [lmao just FUCKING click me](https://www.youtube.com/watch?v=NfSGm9DDQ3o)
 
-![Image Of a derp Cokie](https://lh3.googleusercontent.com/5dv-Ze733yDsLrKgUuLJpLBNZajHUibmb_KWamzlNamE_kDaxm9y9Aa_Cv4yZJSrYDbo4YrbZvEkYcpqdw2vdQ=s400)
+![Image Of a derp Cokie](https://i.pinimg.com/originals/83/d3/46/83d3466a82e3a988fb701e1b900cd74d.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
