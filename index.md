@@ -1,5 +1,5 @@
-## Welcome to Kingybu`s Github
-
+## Welcome to Kingybu`s Github                                                                         
+<img src="https://lh3.googleusercontent.com/K2cgVkpZTQfFZolU3un2dbt8EGSroh2XUu58r1fqmIFhze-so9g0AgKR86pBUSiP8YykxFs23qUAtbOVFor1CU4" alt="Lmao" width="100" height="200">
 Just a Website from a 12 Years old Boy...
 
 ### Just a Derp Cookie
@@ -7,13 +7,12 @@ Just a Website from a 12 Years old Boy...
 [lmao just FUCKING click me](https://www.youtube.com/watch?v=NfSGm9DDQ3o)
 
 ![Image Of a derp Cokie](https://i.pinimg.com/originals/83/d3/46/83d3466a82e3a988fb701e1b900cd74d.jpg)
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### My Gamenames
+### My Games 
 
 Fortnite: Kingybu     
-Minecraft: MAUPAPI                   
+Minecraft: MAUPAPI                                                            
 Steam FriendCode: 445922955 [my profile](https://s.team/p/cpng-fvmq/WFJDBPKB)
 
 <!-- Place this tag where you want the button to render. -->
