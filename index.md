@@ -19,7 +19,7 @@ Steam FriendCode: 445922955 [my profile](https://s.team/p/cpng-fvmq/WFJDBPKB)
 <a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 
-### Support or Contact
+### lmao
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
 <link rel="._." type="image/x-icon" href="Github Datas/favicon.ico">
