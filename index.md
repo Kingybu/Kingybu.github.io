@@ -6,7 +6,7 @@ Just a Website from a 12 Years old Boy...
 
 [lmao just FUCKING click me](https://www.youtube.com/watch?v=NfSGm9DDQ3o)
 
-![Image Of a derp Cokie](https://i.pinimg.com/originals/83/d3/46/83d3466a82e3a988fb701e1b900cd74d.jpg)
+<img src="https://lh3.googleusercontent.com/0Uowdfw88nMFMzk87J7CuKGAqGBs-Uts-6Ur8M1wu99mYOb6DlJ9sDrHeEWOyx0v9utUtLxnZTKeOZb74E72pA=s400" alt="Derp" width="200" height="200">
 
 
 ### My Games 
