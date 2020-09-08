@@ -14,7 +14,7 @@ Just a Website from a 12 Years old Boy...
 Fortnite: Kingybu     
 Minecraft: MAUPAPI                                                            
 Steam FriendCode: 445922955 [my profile](https://s.team/p/cpng-fvmq/WFJDBPKB)
-[More](another-page.md)
+Discord Server: [https://discord.gg/fBJ3fey](https://discord.gg/fBJ3fey)
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
