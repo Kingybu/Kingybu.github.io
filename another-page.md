@@ -1,0 +1,2 @@
+Lmao
+[back](index.md)
