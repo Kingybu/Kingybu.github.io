@@ -22,3 +22,15 @@ Steam FriendCode: 445922955 [my profile](https://s.team/p/cpng-fvmq/WFJDBPKB)
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
+
+<head>
+<!-- Default head tags -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+<!-- Favicon head tag -->
+<link rel="icon" href="PATH/TO/favicon.ico" type="image/x-icon">
+</head>
