@@ -17,7 +17,7 @@ Steam FriendCode: [445922955](https://s.team/p/cpng-fvmq/WFJDBPKB)
 Discord Server: [https://discord.gg/fBJ3fey](https://discord.gg/fBJ3fey)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+<a class="github-button" href="https://drive.google.com/file/d/1yGqGQm32FVQbOhJo9iqVZfaXZQ9fNT3T/view?usp=sharing" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 
 ### lmao
