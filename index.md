@@ -20,7 +20,7 @@ Discord Server: [https://discord.gg/fBJ3fey](https://discord.gg/fBJ3fey)
 <a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 
-### lmaoo
+### lmao
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
 
