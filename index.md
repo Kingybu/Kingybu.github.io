@@ -9,7 +9,7 @@ Just a Website from a 12 Years old Boy...
 <img src="https://lh3.googleusercontent.com/0Uowdfw88nMFMzk87J7CuKGAqGBs-Uts-6Ur8M1wu99mYOb6DlJ9sDrHeEWOyx0v9utUtLxnZTKeOZb74E72pA=s400" alt="Derp" width="200" height="200">
 
 
-### My Games 
+### My Games :D
 
 Fortnite: Kingybu     
 Minecraft: MAUPAPI                                                            
