@@ -1,6 +1,6 @@
 ## Welcome to Kingybu`s Github                                                                         
-<img src="https://lh3.googleusercontent.com/K2cgVkpZTQfFZolU3un2dbt8EGSroh2XUu58r1fqmIFhze-so9g0AgKR86pBUSiP8YykxFs23qUAtbOVFor1CU4" alt="Lmao" width="100" height="200">
-Just a Website from a 12 Years old Boy...
+
+Just a Website from a 12 Year old Boy...
 
 ### Just a Derp Cookie
 
@@ -20,7 +20,7 @@ Discord Server: [Team Yeet](https://discord.gg/Ed2sVzQ)
 <a class="github-button" href="https://raw.githubusercontent.com/Kingybu/Kingybu.github.io/master/patrick.png" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 
-### lmao
+### About me
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
 
