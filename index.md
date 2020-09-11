@@ -14,7 +14,7 @@ Just a Website from a 12 Years old Boy...
 Fortnite: Kingybu     
 Minecraft: MAUPAPI                                                            
 Steam FriendCode: [445922955](https://s.team/p/cpng-fvmq/WFJDBPKB)                                   
-Discord Server: [https://discord.gg/fBJ3fey](https://discord.gg/fBJ3fey)
+Discord Server: [Team Yeet](https://discord.gg/Ed2sVzQ)
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://raw.githubusercontent.com/Kingybu/Kingybu.github.io/master/patrick.png" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
@@ -26,8 +26,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 [![._. face](server-icon.png "lmao")](page2.md)
-Werbung:
 
-<head>
-<script data-ad-client="ca-pub-3096134611412839" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</head>
