@@ -26,3 +26,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 [![._. face](server-icon.png "lmao")](page2.md)
+
+<head>
+<script data-ad-client="ca-pub-3096134611412839" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<head>
