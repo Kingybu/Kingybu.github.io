@@ -26,4 +26,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 [![._. face](server-icon.png "lmao")](page2.md)
+#<a href="patrick.png" download>Download File</a>
 
