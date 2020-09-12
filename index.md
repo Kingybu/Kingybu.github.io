@@ -10,7 +10,8 @@ Just a Website from a 12 Year old Boy...
 
 
 
-<a href="https://Kingybu.github.io/page2.html/">Page 2</a>
+<a href="https://Kingybu.github.io/page2.md/">Page 2</a>
+<a href="page2.md">Page 2</a>
 
 ### My Games :D
 
