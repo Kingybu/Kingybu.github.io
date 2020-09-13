@@ -32,5 +32,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [![Snake](snake.png "Snake")](snake.html)
 [![Tetris](tetris.png "Tetris")](tetris.html)
+[![Pong](Pong.png "Pong")](Pong.html)
 #<a href="patrick.png" download>Download File</a>
 
