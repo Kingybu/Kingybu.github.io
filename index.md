@@ -30,7 +30,7 @@ Discord Name: Maupapi#3415
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
 
 
-[![._. face](server-icon.png "Snake")](snake.html)
-[![._. face](tetris.png "Tetris")](tetris.html)
+[![Snake](snake.png "Snake")](snake.html)
+[![Tetris](tetris.png "Tetris")](tetris.html)
 #<a href="patrick.png" download>Download File</a>
 
