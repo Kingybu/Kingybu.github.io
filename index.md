@@ -34,5 +34,6 @@ All games are made by [Steven Lambert](https://gist.github.com/straker)
 [![Breakout](Breakout.png "Breakout")](breakout.html)
 [![Bomberman](bomberman.png "Bomberman")](bomberman.html)
 [![GunGame](pong.png "GunGame")](gungame.html)
+[![Scratchcat](pong.png "GunGame")](scratchcat.html)
 #<a href="patrick.png" download>Download File</a>
 
