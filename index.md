@@ -33,6 +33,6 @@ All games are made by [Steven Lambert](https://gist.github.com/straker)
 [![Breakout](Breakout.png "Breakout")](breakout.html)
 [![Bomberman](bomberman.png "Bomberman")](bomberman.html)
 [![Jetcat](Jetcat.png "Jetcat")](jetcat.html)
-[![super mario Odyssey](Jetcat.png "super mario Odyssey")](Mario.html)
+[![super mario Odyssey](Jetcat.png "super mario Odyssey")](Marion.html)
 #<a href="patrick.png" download>Download File</a>
 
