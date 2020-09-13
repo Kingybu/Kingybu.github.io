@@ -34,5 +34,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [![Tetris](tetris.png "Tetris")](tetris.html)
 [![Pong](pong.png "Pong")](pong.html)
 [![Breakout](Breakout.png "Breakout")](breakout.html)
+[![Bomberman](bomberman.png "Bomberman")](bomberman.html)
 #<a href="patrick.png" download>Download File</a>
 
