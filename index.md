@@ -25,7 +25,7 @@ Discord Name: Maupapi#3415
 
 
 ### Retro Games
-All games are made by [Steven Lambert](https://gist.github.com/straker)
+All games are made by [Steven Lambert](https://gist.github.com/straker) and [me](https://github.com/Kingybu)
 
 [![Snake](snake.png "Snake")](snake.html)
 [![Tetris](tetris.png "Tetris")](tetris.html)
