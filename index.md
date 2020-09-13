@@ -25,10 +25,8 @@ Discord Name: Maupapi#3415
 <a class="github-button" href="https://raw.githubusercontent.com/Kingybu/Kingybu.github.io/master/patrick.png" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 
-### About me
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
-
+### Retro Games
+All games are made by [Steven Lambert](https://gist.github.com/straker)
 
 [![Snake](snake.png "Snake")](snake.html)
 [![Tetris](tetris.png "Tetris")](tetris.html)
