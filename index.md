@@ -34,6 +34,6 @@ All games are made by [Steven Lambert](https://gist.github.com/straker)
 [![Bomberman](bomberman.png "Bomberman")](bomberman.html)
 [![Jetcat](Jetcat.png "Jetcat")](jetcat.html)
 [![super mario Odyssey](mario.png "super mario Odyssey")](Marion.html)
-[![Battlenite Pixel](Battlenite.png "Battlenite Pixel")](battlenite.html)
+[![Battlenite Pixel](battlenite.png "Battlenite Pixel")](battlenite.html)
 #<a href="patrick.png" download>Download File</a>
 
