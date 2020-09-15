@@ -17,7 +17,7 @@ Just a Website from a 12 Year old Boy...
 Fortnite: Kingybu     
 Minecraft: MAUPAPI                                                            
 Steam FriendCode: [445922955](https://s.team/p/cpng-fvmq/WFJDBPKB)                                   
-Discord Server: [Team Yeet](https://discord.gg/Ed2sVzQ)
+Discord Server: [Terracord](https://discord.gg/BqYH9pA)
 Discord Name: Maupapi#3415
 
 <!-- Place this tag where you want the button to render. -->
