@@ -36,6 +36,6 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 [![super mario Odyssey](mario.png "super mario Odyssey")](Marion.html)
 [![Battlenite Pixel](battlenite.png "Battlenite Pixel")](battlenite.html)
 [![Mission I The Plane](plane.jpg "Mission I The Plane")](plane.html)
-[![Flappy Bird](battlenite.png "Flappy bird")](bird.html)
+[![Flappy Bird](Bird.png "Flappy bird")](bird.html)
 #<a href="patrick.png" download>Download File</a>
 
