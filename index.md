@@ -20,7 +20,7 @@ Steam FriendCode: [445922955](https://s.team/p/cpng-fvmq/WFJDBPKB)
 Discord Server: [Terracord](https://discord.gg/BqYH9pA)            
 Discord Name: Maupapi#3415
 
-[Watch a ad to keep my site ._.](ADS.html)     
+[Just to test](video.html)     
 
 
 ### Retro Games
