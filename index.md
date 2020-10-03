@@ -20,6 +20,12 @@ Steam FriendCode: [445922955](https://s.team/p/cpng-fvmq/WFJDBPKB)
 Discord Server: [Terracord](https://discord.gg/BqYH9pA)            
 Discord Name: Maupapi#3415
 
+### Hacks for Among us
+1. Delete Among us
+2. Download <a href="com-mod-among-us-mod-apk-v2020-9-9-123" download>Among us mod.apk</a>
+3. start it and alow app overlay
+4. open it and enjoy your hacks
+
 [Just to test](video.html)     
 
 
