@@ -20,11 +20,6 @@ Steam FriendCode: [445922955](https://s.team/p/cpng-fvmq/WFJDBPKB)
 Discord Server: [Terracord](https://discord.gg/BqYH9pA)            
 Discord Name: Maupapi#3415
 
-### Hacks for Among us
-1. Delete Among us
-2. Download the mod from [HappyMod.com](https://www.happymod.com/among-us-mod/com.innersloth.spacemafia/downloading.html)
-3. start it and alow app overlay
-4. open it and enjoy your hacks
 
 [Just to test](video.html)     
 
@@ -43,4 +38,22 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 [![Mission I The Plane](plane.jpg "Mission I The Plane")](plane.html)
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
 #<a href="patrick.png" download>Download File</a>
+
+## Among us Section
+
+### Invisible Name
+1. Copy this Letter:[ㅤ](https://www.compart.com/en/unicode/U+3164)<--(yes it is realy here)
+2. paste it in Among us
+
+### Hacks for Among us
+1. Delete Among us
+2. Download the mod from [HappyMod.com](https://www.happymod.com/among-us-mod/com.innersloth.spacemafia/downloading.html)
+3. start it and alow app overlay
+4. open it and enjoy your hacks
+
+### Among us free for PC (no virus)
+1. go to [BlueStacks.com](https://www.bluestacks.com/)
+2. download it
+3. download Among us from the PlayStore in Bluestacks
+4. Enjoy it
 
