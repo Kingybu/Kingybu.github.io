@@ -39,7 +39,8 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
 #<a href="patrick.png" download>Download File</a>
 
-## Among us Section
+[![Flappy Bird](AmongUs.png "mong")](bird.html)
+
 
 ### Invisible Name
 1. Copy this Letter:[ㅤ](https://www.compart.com/en/unicode/U+3164)<--(yes it is realy here)
@@ -56,4 +57,8 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 2. download it
 3. download Among us from the PlayStore in Bluestacks
 4. Enjoy it
+
+<img src="https://logosmarken.com/wp-content/uploads/2020/04/Minecraft-Logo.png" alt="Derp" width="213" height="120">
+
+
 
