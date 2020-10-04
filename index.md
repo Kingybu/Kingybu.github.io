@@ -39,8 +39,9 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
 #<a href="patrick.png" download>Download File</a>
 
-[![Flappy Bird](AmongUs.png "mong")](bird.html)
 
+
+<img src="https://www.photoeffekte.com/images/202010/04/mediana_135007987861536787.jpg?time=1601827234" alt="Derp" width="213" height="120">
 
 ### Invisible Name
 1. Copy this Letter:[ㅤ](https://www.compart.com/en/unicode/U+3164)<--(yes it is realy here)
