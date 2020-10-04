@@ -44,7 +44,7 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 <img src="https://www.photoeffekte.com/images/202010/04/mediana_135007987861536787.jpg?time=1601827234" alt="Derp" width="213" height="120">
 
 ### Invisible Name
-1. Copy this Letter:[ㅤ](https://www.compart.com/en/unicode/U+3164)<--(yes it is realy here)
+1. Copy this Letter:[ㅤ](https://www.compart.com/en/unicode/U+3164)<--(yes it is really here)
 2. paste it in Among us
 
 ### Hacks for Among us
@@ -60,6 +60,11 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 4. Enjoy it
 
 <img src="https://logosmarken.com/wp-content/uploads/2020/04/Minecraft-Logo.png" alt="Derp" width="213" height="120">
+
+### Minecraft Aristois hack Client
+1. Download <a href="Aristois-Free.jar" download>Aristois</a> hack client
+2. open it and click trought the istaller
+3. Enjoy your hacks
 
 
 
