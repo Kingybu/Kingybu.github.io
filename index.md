@@ -37,4 +37,4 @@ All games are made by [Steven Lambert](https://gist.github.com/straker) and [me]
 [![Battlenite Pixel](battlenite.png "Battlenite Pixel")](battlenite.html)
 [![Mission I The Plane](plane.jpg "Mission I The Plane")](plane.html)
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
-#<a href="patrick.png" download>Download File</a>
+<a href="patrick.png" download>Download File</a>
